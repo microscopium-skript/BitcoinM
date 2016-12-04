@@ -1,0 +1,2 @@
+# BitcoinM
+miner bit
